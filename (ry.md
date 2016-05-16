@@ -7,3 +7,5 @@ GitHubでよく見かける略語
 - Nitpick / NITS … あら探しをする
 - WIP（Work In Progress） … 作業中  
 - MUST / SHOULD … 必ず直しましょう 直した方がよいでしょう  
+
+（略）→　（略　→（ry
