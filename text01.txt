@@ -1,1 +1,4 @@
-�e�L�X�g�t�@�C�����쐬
+文字化けしていて内容不明
+以下のエラーメッセージ
+
+    We've detected the file encoding as Shift_JIS. When you commit changes we will transcode it to UTF-8. 
