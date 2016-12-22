@@ -8,5 +8,5 @@ GitHubのコメント欄やwikiなどで使われる GitHub Flavored Markdown �
 heart => :heart:　　smile => :smile:
 
 ## 使える絵文字  
-[EMOJI CHEAT SHEET](http://www.emoji-cheet-sheet.com/)  
+[EMOJI CHEAT SHEET](http://www.webpagefx.com/tools/emoji-cheat-sheet/)  
 Chromeの拡張機能である「Emoty」をインストールすれば一覧から選んで絵文字のコードをクリップボードにコピー
